@@ -45,10 +45,10 @@ CREATE TABLE [dbo].[USER] (
 ### Work experience:
 *Educational projects, laboratory and term papers.*
 
-[https://github.com/vichenka/Curse-project-DatabaseSQL] (course project on databases)
+[https://github.com/vichenka/Curse-project-DatabaseSQL] *course project on databases*
 ---
 
 ### Languages:
-1.**Russian** - Native
-2.**English** - PreIntermediate
+1. **Russian** - Native
+2. **English** - PreIntermediate
 
