@@ -10,6 +10,7 @@
 ---
 
 ### About Myself:
+
 My name is Anna. I graduated from the Belarusian State Technological University
 (full-time department), specialty "Information technology software
 (Web Application Programming)”, qualification: software engineer.
@@ -43,10 +44,11 @@ CREATE TABLE [dbo].[USER] (
 
 ### Work experience:
 *Educational projects, laboratory and term papers.*
+
 [https://github.com/vichenka/Curse-project-DatabaseSQL] (course project on databases)
 ---
 
 ### Languages:
-**Russian** - Native
-**English** - PreIntermediate
+1.**Russian** - Native
+2.**English** - PreIntermediate
 
